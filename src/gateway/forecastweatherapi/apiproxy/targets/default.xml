@@ -7,7 +7,7 @@
         <Response/>
     </PreFlow>
     <HTTPTargetConnection>
-        <URL>https://github.com//URL>
+        <URL>https://github.com/</URL>
     </HTTPTargetConnection>
     <PostFlow name="PostFlow">
         <Request/>
